@@ -1,7 +1,7 @@
 # Kemenes Ádám
 **Szoftverfejlesztő**  
 📍 Budapest, Magyarország  
-📧 kemenes.adam1@gmail.com  
+📧 <kemenes.adam1@gmail.com>  
 📞 +36 30 851 4802  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
 🌐 <https://adam-kemenes.github.io>
