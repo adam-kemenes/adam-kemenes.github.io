@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ádám Kemenes – Résumé / Önéletrajz</title>
+    <link rel="stylesheet" href="cv-style.css">
+</head>
+
+<body>
+    <h1>Ádám Kemenes</h1>
+    <p>
+        <button onclick="showCV('en')">English</button>
+        <button onclick="showCV('hu')">Magyar</button>
+    </p>
+    <div id="cv-container"></div>
+    <p>
+        🇬🇧
+        📄 <a href="cv_en.pdf" download>Download PDF</a> |
+        📝 <a href="cv_en.md" download>Download Markdown</a><br />
+        🇭🇺
+        📄 <a href="cv_hu.pdf" download>PDF letöltése</a> |
+        📝 <a href="cv_hu.md" download>Markdown letöltése</a>
+    </p>
+    <script>
+        async function showCV(lang) {
+            const res = await fetch(`cv_${lang}.html`);
+            const text = await res.text();
+            document.getElementById("cv-container").innerHTML = text;
+        }
+    </script>
+</body>
+
+</html>
