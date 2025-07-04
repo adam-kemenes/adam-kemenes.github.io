@@ -50,7 +50,7 @@
 
 - **Programozás**: C#, .NET, .NET Core, Python, Perl  
 - **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
-- **Adatbázisok**: MySQL  
+- **Adatbázisok**: MySQL, Microsoft SQL  
 - **Frontend**: Angular, WPF  
 - **Verziókezelés**: Git, GitHub, Perforce  
 - **Egyéb**: PowerShell, Jira

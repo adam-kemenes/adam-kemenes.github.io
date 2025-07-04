@@ -49,7 +49,7 @@
 - **DevOps & Cloud**: Docker, AWS ECS, Azure DevOps, GitHub Actions  
 - **Frontend**: Angular, WPF  
 - **Version Control**: Git, GitHub, Azure DevOps, Perforce  
-- **Other**: MySQL, PowerShell, Jira
+- **Other**: MySQL, Microsoft SQL, PowerShell, Jira
 
 ---
 
