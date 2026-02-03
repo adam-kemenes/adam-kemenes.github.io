@@ -57,6 +57,7 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 
 ---
 
+<div class="tech-skills">
 ## Általános technikai és digitális ismeretek
 
 - **Programozás**: C#, .NET, .NET Core, Python, Perl  
@@ -65,3 +66,4 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 - **Frontend**: Angular, WPF  
 - **Verziókezelés**: Git, GitHub, Perforce  
 - **Egyéb**: PowerShell, Jira
+</div>

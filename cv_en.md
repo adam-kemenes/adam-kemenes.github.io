@@ -57,6 +57,7 @@ IT-qualified professional with over 10 years of experience working in structured
 
 ---
 
+<div class="tech-skills">
 ## General Technical and Digital Skills
 
 - **Programming**: C#, .NET, .NET Core, Python, Perl  
@@ -65,3 +66,4 @@ IT-qualified professional with over 10 years of experience working in structured
 - **Frontend**: Angular, WPF  
 - **Version control**: Git, GitHub, Perforce  
 - **Other**: PowerShell, Jira
+</div>

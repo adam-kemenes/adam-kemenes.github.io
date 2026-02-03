@@ -19,3 +19,21 @@ a {
     color: #1f3a5f;
     text-decoration: none;
 }
+
+.tech-skills {
+    font-size: 0.85em;
+    line-height: 1.4;
+}
+
+.tech-skills ul {
+    margin-top: 0.2rem;
+    margin-bottom: 0.4rem;
+}
+
+.tech-skills li {
+    margin-bottom: 0.15rem;
+}
+
+@page {
+    margin: 20mm 18mm;
+}
