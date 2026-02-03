@@ -1,34 +1,31 @@
 # Kemenes Ádám
-**Szoftverfejlesztő**  
 📍 Budapest, Magyarország  
 📧 <kemenes.adam1@gmail.com>  
 📞 +36 30 851 4802  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
-🌐 <https://adam-kemenes.github.io>
 
 ---
+
+## Összefoglaló
+
+Informatikai végzettségű szakember több mint 10 év strukturált, szabályozott környezetben szerzett tapasztalattal. Munkám során kiemelten fontos volt a pontosság, megbízhatóság, adatbiztonság és a felelősségteljes munkavégzés. Régóta érdekel a repülés világa és a repülőtéri működés háttere, célom, hogy egy ellenőrzési és biztonsági pozícióban, hosszú távon, fegyelmezett csapatmunkában járuljak hozzá az utasok és a repülőtér biztonságához.
 
 ## Szakmai tapasztalat
 
 ### Sophos Hungary Kft. – Szoftverfejlesztő  
 **2022. július – 2024. április | Budapest**  
-- Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben  
-- Spamvédelmi backend rendszerek karbantartása (MySQL integrációval)  
-- Helyi alkalmazások migrálása felhőbe (Docker, AWS ECS)  
-- CI/CD pipeline-ok fejlesztése és karbantartása GitHub Actions segítségével  
-- Verziókövetés migrációja Perforce-ról GitHub-ra  
-- Agilis fejlesztés nemzetközi csapatban (Jira)
+- Spamvédelmi backend rendszerek karbantartása
+- Szabályozott, biztonságkritikus rendszerekben végzett munkavégzés nemzetközi környezetben
+- Felelősségteljes hozzáférés-kezelés, adatbiztonság
+- Fokozott figyelmet igénylő, monotonabb feladatok pontos ellátása
 
 ---
 
 ### evosoft Hungary Kft. – Szoftverfejlesztő  
 **2014. április – 2022. július | Budapest**  
-- Orvosi műszerek vezérlőszoftverének fejlesztése C#/.NET és .NET Core alapokon  
-- Visual Studio és Azure DevOps pluginok fejlesztése  
-- CI/CD pipeline-ok készítése Windows Server + PowerShell alapon  
-- Webes frontend: Angular  
-- Verziókezelés: Azure DevOps, Git  
-- Vizuális alkalmazások: WPF, GUI, konzolalkalmazások
+- Biztonságkritikus ipari és orvostechnikai környezetben dolgozó projektek támogatása
+- Pontos, dokumentált folyamatok követése
+- Önálló és csapatban végzett munkavégzés, műszakos környezethez való alkalmazkodás
 
 ---
 
@@ -46,17 +43,6 @@
 
 ---
 
-## Digitális készségek
-
-- **Programozás**: C#, .NET, .NET Core, Python, Perl  
-- **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
-- **Adatbázisok**: MySQL, Microsoft SQL  
-- **Frontend**: Angular, WPF  
-- **Verziókezelés**: Git, GitHub, Perforce  
-- **Egyéb**: PowerShell, Jira
-
----
-
 ## Nyelvtudás
 
 **Angol** – B2 szint (napi használat nemzetközi környezetben)  
@@ -68,3 +54,14 @@
 
 - **Születési év**: 1985  
 - **Jogosítvány**: B kategória  
+
+---
+
+## Általános technikai és digitális ismeretek
+
+- **Programozás**: C#, .NET, .NET Core, Python, Perl  
+- **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
+- **Adatbázisok**: MySQL, Microsoft SQL  
+- **Frontend**: Angular, WPF  
+- **Verziókezelés**: Git, GitHub, Perforce  
+- **Egyéb**: PowerShell, Jira
