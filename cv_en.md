@@ -10,6 +10,11 @@
 
 ## Work Experience
 
+### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - System Administrator
+**April 2024 - | Budapest**
+
+- Maintenance of a Windows Server-based Microsoft Exchange company mailing system
+
 ### Software Engineer – Sophos Hungary Kft.  
 **July 2022 – April 2024 | Budapest**
 
@@ -40,7 +45,8 @@
 
 ## Education
 
-**BSc in IT Engineering**  
+**BSc in IT Engineering**
+
 Óbuda University, John von Neumann Faculty of Informatics  
 2007 – 2014 | Budapest
 
@@ -59,8 +65,8 @@
 ## Languages
 
 - **Hungarian** – Native  
-- **German** - A1 (Learning since 2024)
 - **English** – B2 (Used daily in international teams)
+- **German** - A1 (Learning since 2024)
 
 ---
 
