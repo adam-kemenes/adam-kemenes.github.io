@@ -1,69 +1,76 @@
 # Ádám Kemenes
+**Software Engineer**  
 📍 Budapest, Hungary  
 📧 <kemenes.adam1@gmail.com>  
 📞 +36 30 851 4802  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
+🌐 <https://adam-kemenes.github.io>
 
 ---
 
-## Summary
+## Work Experience
 
-IT-qualified professional with over 10 years of experience working in structured and regulated environments. Throughout my career, precision, reliability, data security, and responsible work practices have been of key importance. I have a long-standing interest in aviation and airport operations, and my goal is to contribute to passenger and airport security in a control and security-related position, through disciplined teamwork and long-term commitment.
+### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - System Administrator
+**April 2024 - | Budapest**
 
-## Professional Experience
+- Maintenance of a Windows Server-based Microsoft Exchange company mailing system
 
-### Sophos Hungary Kft. – Software Developer  
+### Software Engineer – Sophos Hungary Kft.  
 **July 2022 – April 2024 | Budapest**  
-- Maintenance of spam protection backend systems  
-- Work in regulated, security-critical systems within an international environment  
-- Responsible access management and data security  
-- Accurate execution of tasks requiring sustained attention and repetitive focus  
+
+- Development and maintenance of a backend anti-spam system based on Python and Perl microservices (Linux, MySQL/MariaDB)  
+- Containerization of legacy Perl services and cloud migration to AWS ECS (Docker)  
+- CI/CD pipeline automation using GitHub Actions  
+- Version control migration: Perforce → GitHub  
+- Agile development environment with Jira, international team of four
 
 ---
 
-### evosoft Hungary Kft. – Software Developer  
+### Software Developer – evosoft Hungary Kft.  
 **April 2014 – July 2022 | Budapest**  
-- Support of projects operating in security-critical industrial and medical technology environments  
-- Adherence to precise, well-documented processes  
-- Independent and team-based work, including adaptation to shift-based environments  
+
+- C# development of plugins and extensions for Azure DevOps and Visual Studio  
+- Creation of Windows Server–based CI/CD pipelines with PowerShell and C# backends  
+- Frontend development using Angular; standalone applications with WPF and console tools  
+- Version control via Git and Azure DevOps
 
 ---
 
-### Titán Soft Bt. – Intern  
-**September 2012 – March 2013 | Budapest**  
-- Development of a corporate website using the TikiWiki CMS Groupware system  
+### Intern – Titán Soft Bt.  
+**September 2012 – March 2013 | Budapest**
+
+- Maintenance and development of company website using TikiWiki CMS
 
 ---
 
 ## Education
 
-**BSc in Computer Engineering**  
+**BSc in IT Engineering**
+
 Óbuda University, John von Neumann Faculty of Informatics  
 2007 – 2014 | Budapest
 
 ---
 
+## Technical Skills
+
+- **Languages**: C#, .NET, .NET Core, Python, Perl  
+- **DevOps & Cloud**: Docker, AWS ECS, Azure DevOps, GitHub Actions  
+- **Frontend**: Angular, WPF  
+- **Version Control**: Git, GitHub, Azure DevOps, Perforce  
+- **Other**: MySQL, Microsoft SQL, PowerShell, Jira
+
+---
+
 ## Languages
 
-**English** – Upper-intermediate (B2), daily use in an international environment  
-**Hungarian** – Native
+- **Hungarian** – Native  
+- **English** – B2 (Used daily in international teams)
+- **German** - A1 (Learning since 2024)
 
 ---
 
-## Additional Information
+## Other
 
-- **Year of birth**: 1985  
-- **Driving licence**: Category B  
-
----
-
-<div class="tech-skills">
-## General Technical and Digital Skills
-
-- **Programming**: C#, .NET, .NET Core, Python, Perl  
-- **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
-- **Databases**: MySQL, Microsoft SQL  
-- **Frontend**: Angular, WPF  
-- **Version control**: Git, GitHub, Perforce  
-- **Other**: PowerShell, Jira
-</div>
+- **Date of Birth**: 1985-09-24  
+- **Driving License**: Category B

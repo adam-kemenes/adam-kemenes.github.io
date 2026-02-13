@@ -1,38 +1,47 @@
 # Kemenes Ádám
+**Szoftverfejlesztő**  
 📍 Budapest, Magyarország  
 📧 <kemenes.adam1@gmail.com>  
 📞 +36 30 851 4802  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
+🌐 <https://adam-kemenes.github.io>
 
 ---
 
-## Összefoglaló
-
-Informatikai végzettségű szakember több mint 10 év strukturált, szabályozott környezetben szerzett tapasztalattal. Munkám során kiemelten fontos volt a pontosság, megbízhatóság, adatbiztonság és a felelősségteljes munkavégzés. Régóta érdekel a repülés világa és a repülőtéri működés háttere, célom, hogy egy ellenőrzési és biztonsági pozícióban, hosszú távon, fegyelmezett csapatmunkában járuljak hozzá az utasok és a repülőtér biztonságához.
-
 ## Szakmai tapasztalat
+
+### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - Rendszergazda
+**2024 április - | Budapest**
+
+- Windows Server és Microsoft Exchange alapú céges levelezőrendszer karbantartása
+
 
 ### Sophos Hungary Kft. – Szoftverfejlesztő  
 **2022. július – 2024. április | Budapest**
 
-- Spamvédelmi backend rendszerek karbantartása
-- Szabályozott, biztonságkritikus rendszerekben végzett munkavégzés nemzetközi környezetben
-- Felelősségteljes hozzáférés-kezelés, adatbiztonság
-- Fokozott figyelmet igénylő, monotonabb feladatok pontos ellátása
+- Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben  
+- Spamvédelmi backend rendszerek karbantartása (MySQL integrációval)  
+- Helyi alkalmazások migrálása felhőbe (Docker, AWS ECS)  
+- CI/CD pipeline-ok fejlesztése és karbantartása GitHub Actions segítségével  
+- Verziókövetés migrációja Perforce-ról GitHub-ra  
+- Agilis fejlesztés nemzetközi csapatban (Jira)
 
 ---
 
 ### evosoft Hungary Kft. – Szoftverfejlesztő  
-**2014. április – 2022. július | Budapest**  
+**2014. április – 2022. július | Budapest**
 
-- Biztonságkritikus ipari és orvostechnikai környezetben dolgozó projektek támogatása
-- Pontos, dokumentált folyamatok követése
-- Önálló és csapatban végzett munkavégzés, műszakos környezethez való alkalmazkodás
+- Orvosi műszerek vezérlőszoftverének fejlesztése C#/.NET és .NET Core alapokon  
+- Visual Studio és Azure DevOps pluginok fejlesztése  
+- CI/CD pipeline-ok készítése Windows Server + PowerShell alapon  
+- Webes frontend: Angular  
+- Verziókezelés: Azure DevOps, Git  
+- Vizuális alkalmazások: WPF, GUI, konzolalkalmazások
 
 ---
 
 ### Titán Soft Bt. – Gyakornok  
-**2012. szeptember – 2013. március | Budapest**  
+**2012. szeptember – 2013. március | Budapest**
 
 - Céges weboldal fejlesztése TikiWiki CMS Groupware rendszerrel
 
@@ -46,22 +55,7 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 
 ---
 
-## Nyelvtudás
-
-**Angol** – B2 szint (napi használat nemzetközi környezetben)  
-**Magyar** – Anyanyelv
-
----
-
-## Egyéb
-
-- **Születési év**: 1985  
-- **Jogosítvány**: B kategória  
-
----
-
-<div class="tech-skills">
-## Általános technikai és digitális ismeretek
+## Digitális készségek
 
 - **Programozás**: C#, .NET, .NET Core, Python, Perl  
 - **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
@@ -69,4 +63,18 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 - **Frontend**: Angular, WPF  
 - **Verziókezelés**: Git, GitHub, Perforce  
 - **Egyéb**: PowerShell, Jira
-</div>
+
+---
+
+## Nyelvtudás
+
+- **Angol** – B2 szint (napi használat nemzetközi környezetben)  
+- **Német** - A1 szint (2024-óta tanult)
+- **Magyar** – Anyanyelv
+
+---
+
+## Egyéb
+
+- **Születési év**: 1985  
+- **Jogosítvány**: B kategória  
