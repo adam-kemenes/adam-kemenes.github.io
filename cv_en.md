@@ -10,13 +10,8 @@
 
 ## Work Experience
 
-### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - System Administrator
-**April 2024 - | Budapest**
-
-- Maintenance of a Windows Server-based Microsoft Exchange company mailing system
-
 ### Software Engineer – Sophos Hungary Kft.  
-**July 2022 – April 2024 | Budapest**  
+**July 2022 – April 2024 | Budapest**
 
 - Development and maintenance of a backend anti-spam system based on Python and Perl microservices (Linux, MySQL/MariaDB)  
 - Containerization of legacy Perl services and cloud migration to AWS ECS (Docker)  
@@ -27,7 +22,7 @@
 ---
 
 ### Software Developer – evosoft Hungary Kft.  
-**April 2014 – July 2022 | Budapest**  
+**April 2014 – July 2022 | Budapest**
 
 - C# development of plugins and extensions for Azure DevOps and Visual Studio  
 - Creation of Windows Server–based CI/CD pipelines with PowerShell and C# backends  
@@ -45,8 +40,7 @@
 
 ## Education
 
-**BSc in IT Engineering**
-
+**BSc in IT Engineering**  
 Óbuda University, John von Neumann Faculty of Informatics  
 2007 – 2014 | Budapest
 
@@ -65,8 +59,8 @@
 ## Languages
 
 - **Hungarian** – Native  
-- **English** – B2 (Used daily in international teams)
 - **German** - A1 (Learning since 2024)
+- **English** – B2 (Used daily in international teams)
 
 ---
 
