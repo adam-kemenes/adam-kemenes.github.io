@@ -13,7 +13,8 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 ## Szakmai tapasztalat
 
 ### Sophos Hungary Kft. – Szoftverfejlesztő  
-**2022. július – 2024. április | Budapest**  
+**2022. július – 2024. április | Budapest**
+
 - Spamvédelmi backend rendszerek karbantartása
 - Szabályozott, biztonságkritikus rendszerekben végzett munkavégzés nemzetközi környezetben
 - Felelősségteljes hozzáférés-kezelés, adatbiztonság
@@ -23,6 +24,7 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 
 ### evosoft Hungary Kft. – Szoftverfejlesztő  
 **2014. április – 2022. július | Budapest**  
+
 - Biztonságkritikus ipari és orvostechnikai környezetben dolgozó projektek támogatása
 - Pontos, dokumentált folyamatok követése
 - Önálló és csapatban végzett munkavégzés, műszakos környezethez való alkalmazkodás
@@ -31,6 +33,7 @@ Informatikai végzettségű szakember több mint 10 év strukturált, szabályoz
 
 ### Titán Soft Bt. – Gyakornok  
 **2012. szeptember – 2013. március | Budapest**  
+
 - Céges weboldal fejlesztése TikiWiki CMS Groupware rendszerrel
 
 ---
