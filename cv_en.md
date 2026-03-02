@@ -1,76 +1,75 @@
 # Ádám Kemenes
-**Software Engineer**  
 📍 Budapest, Hungary  
-📧 <kemenes.adam1@gmail.com>  
+📧 kemenes.adam1@gmail.com  
 📞 +36 30 851 4802  
-🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
-🌐 <https://adam-kemenes.github.io>
+🔗 https://www.linkedin.com/in/adamkemenes/
 
 ---
 
-## Work Experience
+## Professional Profile
 
-### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - System Administrator
-**April 2024 - | Budapest**
+Customer-focused and reliable professional with over 10 years of experience in international corporate environments. With a strong technical background, I bring structured thinking, problem-solving skills, and a high level of responsibility to my work.
 
-- Maintenance of a Windows Server-based Microsoft Exchange company mailing system
-
-### Software Engineer – Sophos Hungary Kft.  
-**July 2022 – April 2024 | Budapest**
-
-- Development and maintenance of a backend anti-spam system based on Python and Perl microservices (Linux, MySQL/MariaDB)  
-- Containerization of legacy Perl services and cloud migration to AWS ECS (Docker)  
-- CI/CD pipeline automation using GitHub Actions  
-- Version control migration: Perforce → GitHub  
-- Agile development environment with Jira, international team of four
+I have daily experience communicating in English within international teams. I am highly motivated to build a long-term career in the aviation and airport environment, where precision, discipline, and customer service excellence are essential.
 
 ---
 
-### Software Developer – evosoft Hungary Kft.  
-**April 2014 – July 2022 | Budapest**
+## Professional Experience
 
-- C# development of plugins and extensions for Azure DevOps and Visual Studio  
-- Creation of Windows Server–based CI/CD pipelines with PowerShell and C# backends  
-- Frontend development using Angular; standalone applications with WPF and console tools  
-- Version control via Git and Azure DevOps
+### Környezetprofil Ltd. – System Administrator  
+**2024 – | Budapest**
 
----
+- Ensuring uninterrupted operation of internal communication systems  
+- Providing user support and troubleshooting  
+- Delivering precise and responsible work in a business environment  
 
-### Intern – Titán Soft Bt.  
-**September 2012 – March 2013 | Budapest**
+### Sophos Hungary Ltd. – Software Developer  
+**2022 – 2024 | Budapest**
 
-- Maintenance and development of company website using TikiWiki CMS
+- Collaboration in international teams using English daily  
+- Maintaining stability of critical backend systems  
+- Meeting strict deadlines  
+- Structured problem-solving and process improvement  
+
+### evosoft Hungary Ltd. – Software Developer  
+**2014 – 2022 | Budapest**
+
+- Participation in international projects  
+- Accurate documentation and teamwork  
+- Handling multiple parallel tasks  
+- Supporting communication between technical and business stakeholders  
 
 ---
 
 ## Education
 
-**BSc in IT Engineering**
-
-Óbuda University, John von Neumann Faculty of Informatics  
+**BSc in Computer Engineering**  
+Óbuda University – John von Neumann Faculty of Informatics  
 2007 – 2014 | Budapest
 
 ---
 
-## Technical Skills
+## Key Skills
 
-- **Languages**: C#, .NET, .NET Core, Python, Perl  
-- **DevOps & Cloud**: Docker, AWS ECS, Azure DevOps, GitHub Actions  
-- **Frontend**: Angular, WPF  
-- **Version Control**: Git, GitHub, Azure DevOps, Perforce  
-- **Other**: MySQL, Microsoft SQL, PowerShell, Jira
+- Customer-oriented mindset  
+- Strong problem-solving abilities  
+- Reliability and precision  
+- Confident English communication  
+- Fast learner  
+- Ability to work under pressure  
 
 ---
 
 ## Languages
 
-- **Hungarian** – Native  
-- **English** – B2 (Used daily in international teams)
-- **German** - A1 (Learning since 2024)
+- English – Upper-intermediate (B2), daily professional use  
+- German – Basic level  
+- Hungarian – Native  
 
 ---
 
-## Other
+## Additional Information
 
-- **Date of Birth**: 1985-09-24  
-- **Driving License**: Category B
+- Category B driving license  
+- Willing to work in shifts (including weekends)  
+- Clean criminal record available upon request  
