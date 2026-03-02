@@ -1,75 +1,70 @@
 # Ádám Kemenes
+**Software Engineer**  
 📍 Budapest, Hungary  
-📧 kemenes.adam1@gmail.com  
+📧 <kemenes.adam1@gmail.com>  
 📞 +36 30 851 4802  
-🔗 https://www.linkedin.com/in/adamkemenes/
+🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
+🌐 <https://adam-kemenes.github.io>
 
 ---
 
-## Professional Profile
+## Work Experience
 
-Customer-focused and reliable professional with over 10 years of experience in international corporate environments. With a strong technical background, I bring structured thinking, problem-solving skills, and a high level of responsibility to my work.
+### Software Engineer – Sophos Hungary Kft.  
+**July 2022 – April 2024 | Budapest**
 
-I have daily experience communicating in English within international teams. I am highly motivated to build a long-term career in the aviation and airport environment, where precision, discipline, and customer service excellence are essential.
+- Development and maintenance of a backend anti-spam system based on Python and Perl microservices (Linux, MySQL/MariaDB)  
+- Containerization of legacy Perl services and cloud migration to AWS ECS (Docker)  
+- CI/CD pipeline automation using GitHub Actions  
+- Version control migration: Perforce → GitHub  
+- Agile development environment with Jira, international team of four
 
 ---
 
-## Professional Experience
+### Software Developer – evosoft Hungary Kft.  
+**April 2014 – July 2022 | Budapest**
 
-### Környezetprofil Ltd. – System Administrator  
-**2024 – | Budapest**
+- C# development of plugins and extensions for Azure DevOps and Visual Studio  
+- Creation of Windows Server–based CI/CD pipelines with PowerShell and C# backends  
+- Frontend development using Angular; standalone applications with WPF and console tools  
+- Version control via Git and Azure DevOps
 
-- Ensuring uninterrupted operation of internal communication systems  
-- Providing user support and troubleshooting  
-- Delivering precise and responsible work in a business environment  
+---
 
-### Sophos Hungary Ltd. – Software Developer  
-**2022 – 2024 | Budapest**
+### Intern – Titán Soft Bt.  
+**September 2012 – March 2013 | Budapest**
 
-- Collaboration in international teams using English daily  
-- Maintaining stability of critical backend systems  
-- Meeting strict deadlines  
-- Structured problem-solving and process improvement  
-
-### evosoft Hungary Ltd. – Software Developer  
-**2014 – 2022 | Budapest**
-
-- Participation in international projects  
-- Accurate documentation and teamwork  
-- Handling multiple parallel tasks  
-- Supporting communication between technical and business stakeholders  
+- Maintenance and development of company website using TikiWiki CMS
 
 ---
 
 ## Education
 
-**BSc in Computer Engineering**  
-Óbuda University – John von Neumann Faculty of Informatics  
+**BSc in IT Engineering**  
+Óbuda University, John von Neumann Faculty of Informatics  
 2007 – 2014 | Budapest
 
 ---
 
-## Key Skills
+## Technical Skills
 
-- Customer-oriented mindset  
-- Strong problem-solving abilities  
-- Reliability and precision  
-- Confident English communication  
-- Fast learner  
-- Ability to work under pressure  
+- **Languages**: C#, .NET, .NET Core, Python, Perl  
+- **DevOps & Cloud**: Docker, AWS ECS, Azure DevOps, GitHub Actions  
+- **Frontend**: Angular, WPF  
+- **Version Control**: Git, GitHub, Azure DevOps, Perforce  
+- **Other**: MySQL, Microsoft SQL, PowerShell, Jira
 
 ---
 
 ## Languages
 
-- English – Upper-intermediate (B2), daily professional use  
-- German – Basic level  
-- Hungarian – Native  
+- **Hungarian** – Native  
+- **German** - A1 (Learning since 2024)
+- **English** – B2 (Used daily in international teams)
 
 ---
 
-## Additional Information
+## Other
 
-- Category B driving license  
-- Willing to work in shifts (including weekends)  
-- Clean criminal record available upon request  
+- **Date of Birth**: 1985-09-24  
+- **Driving License**: Category B
