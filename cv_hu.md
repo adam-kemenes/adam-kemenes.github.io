@@ -19,8 +19,6 @@
 ### Sophos Hungary Kft. – Szoftverfejlesztő  
 **2022. július – 2024. április | Budapest**
 
-**2022. július – 2024. április | Budapest**
-
 - Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben  
 - Spamvédelmi backend rendszerek karbantartása (MySQL integrációval)  
 - Helyi alkalmazások migrálása felhőbe (Docker, AWS ECS)  
