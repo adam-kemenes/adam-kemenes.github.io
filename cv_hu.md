@@ -10,7 +10,15 @@
 
 ## Szakmai tapasztalat
 
+### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - Rendszergazda
+**2024 április - | Budapest**
+
+- Windows Server és Microsoft Exchange alapú céges levelezőrendszer karbantartása
+
+
 ### Sophos Hungary Kft. – Szoftverfejlesztő  
+**2022. július – 2024. április | Budapest**
+
 **2022. július – 2024. április | Budapest**
 
 - Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben  
