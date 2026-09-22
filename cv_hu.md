@@ -1,80 +1,129 @@
 # Kemenes Ádám
-**Szoftverfejlesztő**  
+
+**Szoftverfejlesztő – C# / .NET**
+
 📍 Budapest, Magyarország  
-📧 <kemenes.adam1@gmail.com>  
+📧 [kemenes.adam1@gmail.com](mailto:kemenes.adam1@gmail.com)  
 📞 +36 30 851 4802  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamkemenes/)  
-🌐 <https://adam-kemenes.github.io>
+🌐 https://adam-kemenes.github.io
+
+---
+
+## Szakmai profil
+
+Több éves szoftverfejlesztési tapasztalattal rendelkező mérnök informatikus, elsősorban **C#/.NET** környezetben. Korábbi munkám során Visual Studio és Azure DevOps bővítményeket, Windows alapú alkalmazásokat, valamint fejlesztést támogató és CI/CD megoldásokat készítettem.
+
+Később Python és Perl alapú backend rendszereken dolgoztam Linux környezetben, valamint CI/CD automatizációval, Dockerrel és AWS ECS-szel is szereztem tapasztalatot.
+
+Jelenleg rendszergazdai munkakörben dolgozom, de hosszabb távon ismét **szoftverfejlesztői, elsősorban C#/.NET pozícióban** szeretnék elhelyezkedni.
 
 ---
 
 ## Szakmai tapasztalat
 
-### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. - Rendszergazda
-**2024 április - | Budapest**
+### Környezetprofil Környezetvédelmi és Ingatlanfejlesztő Kft. – Rendszergazda
 
-- Windows Server és Microsoft Exchange alapú céges levelezőrendszer karbantartása
+**2024. április – | Budapest**
 
+* Windows Server és Microsoft Exchange alapú céges levelezőrendszer karbantartása
 
-### Sophos Hungary Kft. – Szoftverfejlesztő  
+### Sophos Hungary Kft. – Szoftverfejlesztő
+
 **2022. július – 2024. április | Budapest**
 
-- Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben  
-- Spamvédelmi backend rendszerek karbantartása (MySQL integrációval)  
-- Helyi alkalmazások migrálása felhőbe (Docker, AWS ECS)  
-- CI/CD pipeline-ok fejlesztése és karbantartása GitHub Actions segítségével  
-- Verziókövetés migrációja Perforce-ról GitHub-ra  
-- Agilis fejlesztés nemzetközi csapatban (Jira)
+* Python és Perl alapú mikroszolgáltatások fejlesztése Linux környezetben
+* Spamvédelmi backend rendszerek fejlesztése és karbantartása MySQL integrációval
+* Helyi alkalmazások konténerizálása és felhőbe migrálása Docker és AWS ECS használatával
+* CI/CD pipeline-ok fejlesztése és karbantartása GitHub Actions segítségével
+* Verziókövetési rendszer migrációja Perforce-ról GitHub-ra
+* Agilis fejlesztés nemzetközi csapatban, Jira használatával
 
----
+### evosoft Hungary Kft. – Szoftverfejlesztő
 
-### evosoft Hungary Kft. – Szoftverfejlesztő  
 **2014. április – 2022. július | Budapest**
 
-- Orvosi műszerek vezérlőszoftver-fejlesztőinek támogatása C#/.NET és .NET Core alapokon  
-- Visual Studio és Azure DevOps pluginok fejlesztése  
-- CI/CD pipeline-ok készítése Windows Server + PowerShell alapon  
-- Webes frontend: Angular  
-- Verziókezelés: Azure DevOps, Git  
-- Vizuális alkalmazások: WPF, GUI, konzolalkalmazások
+* Visual Studio és Azure DevOps pluginok és bővítmények fejlesztése C#/.NET környezetben
+* Orvosi műszerek vezérlőszoftver-fejlesztőinek támogatása C#/.NET és .NET Core alapokon
+* CI/CD pipeline-ok készítése és karbantartása Windows Server és PowerShell használatával
+* Angular alapú webes frontend fejlesztése
+* WPF alapú vizuális alkalmazások és konzolalkalmazások fejlesztése
+* Verziókezelés Git és Azure DevOps használatával
 
----
+### Titán Soft Bt. – Gyakornok
 
-### Titán Soft Bt. – Gyakornok  
 **2012. szeptember – 2013. március | Budapest**
 
-- Céges weboldal fejlesztése TikiWiki CMS Groupware rendszerrel
+* Céges weboldal fejlesztése és karbantartása TikiWiki CMS Groupware rendszerben
 
 ---
 
 ## Oktatás
 
-**Mérnök informatikus (BSc)**  
-Óbudai Egyetem, Neumann János Informatikai Kar  
-2007 – 2014 | Budapest
+**Mérnök informatikus (BSc)**
+Óbudai Egyetem, Neumann János Informatikai Kar
+2007–2014 | Budapest
 
 ---
 
-## Digitális készségek
+## Technikai készségek
 
-- **Programozás**: C#, .NET, .NET Core, Python, Perl  
-- **DevOps / CI/CD**: GitHub Actions, Azure DevOps, Docker, AWS (ECS)  
-- **Adatbázisok**: MySQL, Microsoft SQL  
-- **Frontend**: Angular, WPF  
-- **Verziókezelés**: Git, GitHub, Perforce  
-- **Egyéb**: PowerShell, Jira
+### Elsődleges fejlesztési tapasztalat
+
+* **C# / .NET / .NET Core**
+* **Visual Studio**
+* **Azure DevOps**
+* **WPF**
+* **Windows alkalmazások**
+
+### További fejlesztői tapasztalat
+
+* Python
+* Perl
+* Angular
+* PowerShell
+* SQL
+
+### DevOps / CI/CD / Cloud
+
+* GitHub Actions
+* Azure DevOps
+* Docker
+* AWS ECS
+* Windows Server
+* Linux
+
+### Adatbázisok
+
+* MySQL / MariaDB
+* Microsoft SQL
+
+### Verziókezelés
+
+* Git
+* GitHub
+* Azure DevOps
+* Perforce
+
+### Egyéb
+
+* Jira
 
 ---
 
 ## Nyelvtudás
 
-- **Angol** – B2 szint (napi használat nemzetközi környezetben)  
-- **Német** - A1 szint (2024 óta tanult)
-- **Magyar** – Anyanyelv
+* **Magyar** – anyanyelv
+* **Angol** – B2 szint, napi használat nemzetközi munkakörnyezetben
+
+---
+
+## Hobbi
+
+**3D nyomtatás** – modellezés és saját alkatrészek tervezése FreeCAD és OpenSCAD használatával
 
 ---
 
 ## Egyéb
 
-- **Születési év**: 1985  
-- **Jogosítvány**: B kategória  
+* **Jogosítvány** – B kategória

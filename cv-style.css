@@ -1,21 +1,146 @@
-body {
-    font-family: 'Segoe UI', sans-serif;
-    color: #333;
-    line-height: 1.5;
-    max-width: 750px;
-    margin: 2rem auto;
-    padding: 0 1rem;
+@page {
+    size: A4;
+    margin: 16mm 17mm;
 }
 
-h1,
-h2,
-h3 {
-    color: #2d4a70;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 0.3rem;
+:root {
+    --text: #2b2f33;
+    --muted: #66717c;
+    --heading: #243f5f;
+    --accent: #356b9f;
+    --border: #d9dee3;
+    --background: #ffffff;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: var(--text);
+    background: var(--background);
+    line-height: 1.45;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem;
+    font-size: 10.5pt;
+}
+
+/* Name */
+
+h1 {
+    color: var(--heading);
+    font-size: 25pt;
+    line-height: 1.15;
+    margin: 0 0 0.15rem;
+    border: none;
+    padding: 0;
+}
+
+h1 + p {
+    margin-top: 0.2rem;
+}
+
+/* Main section headings */
+
+h2 {
+    color: var(--heading);
+    font-size: 13pt;
+    line-height: 1.2;
+    margin: 1.5rem 0 0.7rem;
+    padding: 0 0 0.3rem;
+    border-bottom: 1px solid var(--border);
+}
+
+/* Job / education headings */
+
+h3 {
+    color: var(--text);
+    font-size: 11pt;
+    line-height: 1.25;
+    margin: 1rem 0 0.15rem;
+    padding: 0;
+    border: none;
+}
+
+/* Body text */
+
+p {
+    margin: 0.35rem 0 0.7rem;
+}
+
+strong {
+    color: var(--text);
+}
+
+/* Links */
 
 a {
-    color: #007acc;
+    color: var(--accent);
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+
+ul {
+    margin: 0.25rem 0 0.8rem;
+    padding-left: 1.25rem;
+}
+
+li {
+    margin-bottom: 0.2rem;
+}
+
+/* Horizontal rules */
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--border);
+    margin: 1rem 0;
+}
+
+/* Compact contact information */
+
+h1 ~ p:first-of-type {
+    color: var(--muted);
+    font-size: 9.5pt;
+}
+
+/* Keep sections together when possible */
+
+h2,
+h3 {
+    break-after: avoid;
+}
+
+h3 + p,
+h3 + ul {
+    break-before: avoid;
+}
+
+/* Print */
+
+@media print {
+    body {
+        padding: 0;
+        max-width: none;
+        font-size: 10pt;
+    }
+
+    a {
+        color: inherit;
+    }
+
+    h2 {
+        break-after: avoid;
+    }
+
+    h3 {
+        break-after: avoid;
+    }
 }
